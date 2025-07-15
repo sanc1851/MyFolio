@@ -89,6 +89,12 @@ p {
     font-size: 20px;
   }
 
+  html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
+
   .sectionTitle {
     margin-bottom: 60px;
   }

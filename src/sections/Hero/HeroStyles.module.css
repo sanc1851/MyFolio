@@ -16,8 +16,8 @@
 
 .colorMode {
   position: absolute;
-  top: 20px;
-  right: 20px;
+  top: 25px;
+  right: 30px;
   width: 24px;
   cursor: pointer;
 }
@@ -46,8 +46,6 @@ h2 {
   width: 28px;
   height: 28px;
   object-fit: contain;  
-  aspect-ratio: 1 / 1;
-  display: inline-block;
 }
 
 .description {
